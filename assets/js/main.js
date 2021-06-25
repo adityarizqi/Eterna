@@ -1,6 +1,6 @@
 /**
-* Template Name: Eterna - v4.3.0
-* Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
+* Template Name: Greenice - v4.3.0
+* Template URL: https://bootstrapmade.com/Greenice-free-multipurpose-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
